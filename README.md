@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/y5vE8y_f_OM" target="_blank">
-      <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Project Banner">
-    </a>
+    <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Project Banner">
   <br />
 
   <div>
@@ -12,6 +10,8 @@
   </div>
 
   <h3 align="center">A Collaborative LiveDocs</h3>
+
+  
 </div>
 
 ## <a name="introduction">🤖 Introduction</a>
