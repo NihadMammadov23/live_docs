@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=61DAFB" alt="next.js" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div><br /><br />
+  </div><br />
 
   <h3 align="center">A Collaborative LiveDocs</h3>
-
+  <h2 align="center">Live Demo: <a href="https://live-docs-mammadovs.vercel.app/">HERE</a></h2>
   
 </div>
 
